@@ -1,0 +1,4 @@
+C:\Software\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ChatServer\bin\ChatServer.dll
+C:\Software\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ChatServer\bin\ChatServer.pdb
+C:\Work\Test\Photon\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.dll
+C:\Work\Test\Photon\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

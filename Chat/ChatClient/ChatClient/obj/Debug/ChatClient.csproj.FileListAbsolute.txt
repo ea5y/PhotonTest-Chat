@@ -1,0 +1,10 @@
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\bin\Debug\Photon3DotNet.dll
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\bin\Debug\websocket-sharp.dll
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\bin\Debug\Photon3DotNet.pdb
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\bin\Debug\Photon3DotNet.xml
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Work\Test\Photon\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
